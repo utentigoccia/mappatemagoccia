@@ -1,5 +1,11 @@
 {
   "title": "tema di progettazione",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "la goccia di bovisa",
+      "id": 2
+    }
+  }
 }
