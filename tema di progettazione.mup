@@ -34,7 +34,21 @@
                   "ideas": {
                     "1": {
                       "title": "Punti di accesso",
-                      "id": 58
+                      "id": 58,
+                      "ideas": {
+                        "1": {
+                          "title": "Ingresso attuale",
+                          "id": 60
+                        },
+                        "2": {
+                          "title": "Zona gasometri esistenti",
+                          "id": 61
+                        },
+                        "3": {
+                          "title": "Zona gasometro demolito",
+                          "id": 62
+                        }
+                      }
                     }
                   }
                 },
@@ -48,15 +62,35 @@
                       "ideas": {
                         "1": {
                           "title": "Costi di messa in opera",
-                          "id": 40
+                          "id": 40,
+                          "attr": {
+                            "style": {
+                              "background": "#E0E0E0"
+                            }
+                          }
                         },
                         "2": {
                           "title": "Costi di smaltimento",
-                          "id": 41
+                          "id": 41,
+                          "attr": {
+                            "style": {
+                              "background": "#E0E0E0"
+                            }
+                          }
                         },
                         "3": {
                           "title": "Costi organizzativi dell'evento",
-                          "id": 42
+                          "id": 42,
+                          "attr": {
+                            "style": {
+                              "background": "#E0E0E0"
+                            }
+                          }
+                        }
+                      },
+                      "attr": {
+                        "style": {
+                          "background": "#E0E0E0"
                         }
                       }
                     },
@@ -66,7 +100,12 @@
                       "ideas": {
                         "1": {
                           "title": "Mantenere il  verde dell'area",
-                          "id": 43
+                          "id": 43,
+                          "attr": {
+                            "style": {
+                              "background": "#E0E0E0"
+                            }
+                          }
                         },
                         "2": {
                           "title": "Il suolo è inquinato",
@@ -130,6 +169,11 @@
                             }
                           }
                         }
+                      },
+                      "attr": {
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
                       }
                     },
                     "3": {
@@ -140,13 +184,33 @@
                           "title": "Utilizzo di strutture temporanee",
                           "id": 59
                         }
+                      },
+                      "attr": {
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
                       }
                     }
                   }
                 }
+              },
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
               }
             }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
           }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
         }
       }
     },
@@ -229,6 +293,11 @@
             }
           }
         }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
       }
     },
     "-0.5": {
@@ -292,6 +361,16 @@
     {
       "ideaIdFrom": 59,
       "ideaIdTo": 5,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 19,
+      "ideaIdTo": 58,
       "attr": {
         "style": {
           "color": "#FF0000",
