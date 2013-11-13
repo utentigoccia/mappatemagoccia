@@ -15,10 +15,6 @@
               "title": "Evento durata pochi giorni (1-4 giorni)",
               "id": 29,
               "ideas": {
-                "1": {
-                  "title": "Rendere visibile un'area del quartiere quasi \"nascosta\"",
-                  "id": 32
-                },
                 "2": {
                   "title": "Narrare la storia delle ex Officine del Gas",
                   "id": 33
@@ -26,6 +22,121 @@
                 "3": {
                   "title": "Permettere maggiore visibilità al lavoro del Comitato all'intero quartiere",
                   "id": 35
+                },
+                "4": {
+                  "title": "Rendere visibile un'area del quartiere quasi \"nascosta\"",
+                  "id": 32,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Punti di accesso",
+                      "id": 58
+                    }
+                  }
+                },
+                "1.5": {
+                  "title": "rispettare vincoli progettuali",
+                  "id": 36,
+                  "ideas": {
+                    "1": {
+                      "title": "Vincoli economici",
+                      "id": 37,
+                      "ideas": {
+                        "1": {
+                          "title": "Costi di messa in opera",
+                          "id": 40
+                        },
+                        "2": {
+                          "title": "Costi di smaltimento",
+                          "id": 41
+                        },
+                        "3": {
+                          "title": "Costi organizzativi dell'evento",
+                          "id": 42
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Vincoli legati al luogo",
+                      "id": 38,
+                      "ideas": {
+                        "1": {
+                          "title": "Mantenere il  verde dell'area",
+                          "id": 43
+                        },
+                        "2": {
+                          "title": "Il suolo è inquinato",
+                          "id": 44
+                        },
+                        "3": {
+                          "title": "Ripristinare il collegamento tra interno ed esterno dell'area",
+                          "id": 45,
+                          "ideas": {
+                            "1": {
+                              "title": "Collegamento fisico",
+                              "id": 46,
+                              "ideas": {
+                                "1": {
+                                  "title": "Ponti",
+                                  "id": 51
+                                },
+                                "2": {
+                                  "title": "Scale",
+                                  "id": 52
+                                },
+                                "3": {
+                                  "title": "Passerelle",
+                                  "id": 53
+                                }
+                              }
+                            },
+                            "2": {
+                              "title": "Collegamento visivo",
+                              "id": 47,
+                              "ideas": {
+                                "1": {
+                                  "title": "Utilizzo elementi fisici per unire due punti",
+                                  "id": 54
+                                },
+                                "2": {
+                                  "title": "Utilizzo elementi di proiezione immagine ",
+                                  "id": 55
+                                },
+                                "3": {
+                                  "title": "Utilizzo elementi per l'abbattimento della barriera",
+                                  "id": 56
+                                },
+                                "4": {
+                                  "title": "Utilizzo elementi per concentrare l'attenzione su un punto",
+                                  "id": 57
+                                }
+                              }
+                            },
+                            "3": {
+                              "title": "Riferimenti simbolici tra passato e presente",
+                              "id": 48
+                            },
+                            "4": {
+                              "title": "Collegamenti luminosi",
+                              "id": 49
+                            },
+                            "5": {
+                              "title": "Collegamenti sonori",
+                              "id": 50
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "Vincoli procedurali",
+                      "id": 39
+                    }
+                  }
                 }
               }
             }
@@ -154,6 +265,16 @@
     },
     {
       "ideaIdFrom": 28,
+      "ideaIdTo": 20,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 35,
       "ideaIdTo": 20,
       "attr": {
         "style": {
