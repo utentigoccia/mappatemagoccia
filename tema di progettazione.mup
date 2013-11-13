@@ -1,11 +1,25 @@
 {
-  "title": "tema di progettazione",
+  "title": "Progetto di Architettura Open Source",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
     "1": {
-      "title": "la goccia di bovisa",
+      "title": "perchè usarla: forma che si modifica in base al contributo del singolo individuo",
       "id": 2
+    },
+    "2": {
+      "title": "come usarla: utilizzando strutture temporanee",
+      "id": 5
+    },
+    "-1": {
+      "title": "dove usarla: zone della città abbandonate",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "donare nuova vita e nuova destinazione d'uso",
+          "id": 4
+        }
+      }
     }
   }
 }
