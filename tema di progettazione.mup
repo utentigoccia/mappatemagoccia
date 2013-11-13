@@ -5,7 +5,8 @@
   "ideas": {
     "1": {
       "title": "perchè usarla: forma che si modifica in base al contributo del singolo individuo",
-      "id": 2
+      "id": 2,
+      "ideas": {}
     },
     "2": {
       "title": "come usarla: utilizzando strutture temporanee",
@@ -39,7 +40,52 @@
       "ideas": {
         "1": {
           "title": "donare nuova vita e nuova destinazione d'uso",
-          "id": 4
+          "id": 4,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "2": {
+          "title": "Scelta del luogo",
+          "id": 10,
+          "ideas": {
+            "1": {
+              "title": "\"La Goccia\" di Bovisa",
+              "id": 11,
+              "ideas": {
+                "1": {
+                  "title": "Luogo abbandonato",
+                  "id": 15
+                },
+                "2": {
+                  "title": "Comitato di quartiere attivo",
+                  "id": 17,
+                  "ideas": {
+                    "1": {
+                      "title": "Sogni e Bisogni Comitato La Goccia:",
+                      "id": 20,
+                      "attr": {
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Luogo ricco di informazioni storiche e culturali",
+                  "id": 19
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          }
         }
       }
     }
