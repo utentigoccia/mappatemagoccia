@@ -64,19 +64,45 @@
                   "id": 17,
                   "ideas": {
                     "1": {
-                      "title": "Sogni e Bisogni Comitato La Goccia:",
+                      "title": "Sogni e Bisogni Comitato La Goccia",
                       "id": 20,
                       "attr": {
                         "style": {
                           "background": "#E0E0E0"
                         }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "SOGNI:\n- Percorsi di archeologia industriale \n- Museo di storia industriale\n- Spazi pubblici immersi nel verde\n- Orti curati dai cittadini\n",
+                          "id": 23,
+                          "attr": {
+                            "style": {
+                              "background": "#E0E0E0"
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "BISOGNI:\n- Collegamento migliore Bovisa e Villapizzone\n- Piste ciclabili Bovisa e  Centro\n- Luoghi di studio aperti a studenti e cittadinanza\n-  Luoghi per concerti\n- Potenziamento biblioteca\n-  Riqualificazione edifici esisteti\n- Palestra a cielo aperto",
+                          "id": 25,
+                          "ideas": {}
+                        },
+                        "3": {
+                          "title": "COME AGIRE\n-         Studiare bonifiche in altre città europee (Utrecht)\n-         Collaborazione tra cittadini e studenti Polimi\n-         Incontrare Politecnico, Amministrazione più altri privati per un quadro completo interessi\n-         Fare porta a porta per coinvolgere abitanti\n-         Raccolta firme",
+                          "id": 27
+                        }
                       }
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
                     }
                   }
                 },
                 "3": {
                   "title": "Luogo ricco di informazioni storiche e culturali",
-                  "id": 19
+                  "id": 19,
+                  "ideas": {}
                 }
               },
               "attr": {
@@ -89,5 +115,6 @@
         }
       }
     }
-  }
+  },
+  "links": []
 }
