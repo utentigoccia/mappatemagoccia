@@ -134,7 +134,13 @@
                     },
                     "3": {
                       "title": "Vincoli procedurali",
-                      "id": 39
+                      "id": 39,
+                      "ideas": {
+                        "1": {
+                          "title": "Utilizzo di strutture temporanee",
+                          "id": 59
+                        }
+                      }
                     }
                   }
                 }
@@ -276,6 +282,16 @@
     {
       "ideaIdFrom": 35,
       "ideaIdTo": 20,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 59,
+      "ideaIdTo": 5,
       "attr": {
         "style": {
           "color": "#FF0000",
