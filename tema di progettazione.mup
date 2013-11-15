@@ -3,7 +3,7 @@
   "id": 1,
   "formatVersion": 2,
   "ideas": {
-    "1": {
+    "5.5": {
       "title": "perchè usarla: forma che si modifica in base al contributo del singolo individuo",
       "id": 2,
       "ideas": {
@@ -131,6 +131,11 @@
                                   "title": "Passerelle",
                                   "id": 53
                                 }
+                              },
+                              "attr": {
+                                "style": {
+                                  "background": "#ff6600"
+                                }
                               }
                             },
                             "2": {
@@ -153,6 +158,11 @@
                                   "title": "Utilizzo elementi per concentrare l'attenzione su un punto",
                                   "id": 57
                                 }
+                              },
+                              "attr": {
+                                "style": {
+                                  "background": "#ff6600"
+                                }
                               }
                             },
                             "3": {
@@ -166,6 +176,11 @@
                             "5": {
                               "title": "Collegamenti sonori",
                               "id": 50
+                            }
+                          },
+                          "attr": {
+                            "style": {
+                              "background": "#ff9900"
                             }
                           }
                         }
@@ -251,7 +266,7 @@
         }
       }
     },
-    "11": {
+    "-10.5": {
       "title": "dove utilizzarla: zone della città abbandonate",
       "id": 3,
       "ideas": {
@@ -337,7 +352,7 @@
         }
       }
     },
-    "-0.5": {
+    "15.5": {
       "title": "COME: utilizzando strutture temporanee",
       "id": 5,
       "ideas": {
