@@ -218,7 +218,7 @@
                   },
                   "ideas": {
                     "1": {
-                      "title": "Solo Goccia",
+                      "title": "Solo Goccia (simbolo di milano più che di bovisa)",
                       "id": 70,
                       "attr": {
                         "style": {
@@ -234,7 +234,16 @@
                               "background": "#ffff99"
                             }
                           },
-                          "ideas": {}
+                          "ideas": {
+                            "1": {
+                              "title": "Comunicare maggiormente l'archeologia industriale",
+                              "id": 85
+                            },
+                            "2": {
+                              "title": "Valore simbolico fortissimo",
+                              "id": 87
+                            }
+                          }
                         },
                         "2": {
                           "title": "Restare fuori, zone limitrofe",
@@ -354,6 +363,17 @@
                           "attr": {
                             "style": {
                               "background": "#ffff99"
+                            }
+                          },
+                          "ideas": {
+                            "1": {
+                              "title": "installazione alberi in legno finti nel parcheggio",
+                              "id": 84,
+                              "attr": {
+                                "style": {
+                                  "background": "#ffff99"
+                                }
+                              }
                             }
                           }
                         },
