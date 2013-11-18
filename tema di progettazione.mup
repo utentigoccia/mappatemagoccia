@@ -236,7 +236,7 @@
                           },
                           "ideas": {
                             "1": {
-                              "title": "Comunicare maggiormente l'archeologia industriale",
+                              "title": "Comunicare maggiormente l'archeologia industriale, valore simbolico fortissimo",
                               "id": 85,
                               "attr": {
                                 "style": {
@@ -294,82 +294,6 @@
                                       "background": "#ffff99"
                                     }
                                   }
-                                },
-                                "4": {
-                                  "title": "Utilizzo solo persone",
-                                  "id": 95,
-                                  "attr": {
-                                    "style": {
-                                      "background": "#ffff99"
-                                    }
-                                  },
-                                  "ideas": {
-                                    "5": {
-                                      "title": "si creano situazioni in cui sono fondamentali le azioni, non importa il luogo",
-                                      "id": 102,
-                                      "ideas": {
-                                        "1": {
-                                          "title": "giochi per bambini",
-                                          "id": 99,
-                                          "attr": {
-                                            "style": {
-                                              "background": "#ffff99"
-                                            }
-                                          }
-                                        },
-                                        "2": {
-                                          "title": "Musica dal vivo",
-                                          "id": 98,
-                                          "attr": {
-                                            "style": {
-                                              "background": "#ffff99"
-                                            }
-                                          }
-                                        },
-                                        "3": {
-                                          "title": "Caccia al tesoro",
-                                          "id": 97,
-                                          "attr": {
-                                            "style": {
-                                              "background": "#ffff99"
-                                            }
-                                          }
-                                        },
-                                        "4": {
-                                          "title": "Danze ",
-                                          "id": 96,
-                                          "attr": {
-                                            "style": {
-                                              "background": "#ffff99"
-                                            }
-                                          }
-                                        },
-                                        "0.5": {
-                                          "title": "Burattinai e spettacoli teatrali",
-                                          "id": 101,
-                                          "attr": {
-                                            "style": {
-                                              "background": "#ffff99"
-                                            }
-                                          }
-                                        }
-                                      },
-                                      "attr": {
-                                        "style": {
-                                          "background": "#ffff99"
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            },
-                            "2": {
-                              "title": "Valore simbolico fortissimo",
-                              "id": 87,
-                              "attr": {
-                                "style": {
-                                  "background": "#ffff99"
                                 }
                               }
                             }
@@ -383,7 +307,75 @@
                               "background": "#ffff99"
                             }
                           },
-                          "ideas": {}
+                          "ideas": {
+                            "1": {
+                              "title": "Utilizzo solo persone",
+                              "id": 95,
+                              "attr": {
+                                "style": {
+                                  "background": "#ffff99"
+                                }
+                              },
+                              "ideas": {
+                                "5": {
+                                  "title": "si creano situazioni in cui sono fondamentali le azioni, non importa il luogo",
+                                  "id": 102,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "giochi per bambini",
+                                      "id": 99,
+                                      "attr": {
+                                        "style": {
+                                          "background": "#ffff99"
+                                        }
+                                      }
+                                    },
+                                    "2": {
+                                      "title": "Musica dal vivo",
+                                      "id": 98,
+                                      "attr": {
+                                        "style": {
+                                          "background": "#ffff99"
+                                        }
+                                      }
+                                    },
+                                    "3": {
+                                      "title": "Caccia al tesoro",
+                                      "id": 97,
+                                      "attr": {
+                                        "style": {
+                                          "background": "#ffff99"
+                                        }
+                                      }
+                                    },
+                                    "4": {
+                                      "title": "Danze ",
+                                      "id": 96,
+                                      "attr": {
+                                        "style": {
+                                          "background": "#ffff99"
+                                        }
+                                      }
+                                    },
+                                    "0.5": {
+                                      "title": "Burattinai e spettacoli teatrali",
+                                      "id": 101,
+                                      "attr": {
+                                        "style": {
+                                          "background": "#ffff99"
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "attr": {
+                                    "style": {
+                                      "background": "#ffff99"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
                         }
                       }
                     },
