@@ -242,6 +242,22 @@
                                 "style": {
                                   "background": "#ffff99"
                                 }
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "Attori che inscenano una giornata di lavoro nelle Officine",
+                                  "id": 89,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "far rivivere un luogo morto",
+                                      "id": 90
+                                    },
+                                    "2": {
+                                      "title": "creare l'effetto paradosso",
+                                      "id": 91
+                                    }
+                                  }
+                                }
                               }
                             },
                             "2": {
