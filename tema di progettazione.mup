@@ -268,6 +268,17 @@
                                             "style": {
                                               "background": "#ffff99"
                                             }
+                                          },
+                                          "ideas": {
+                                            "1": {
+                                              "title": "Il palco è all'interno, in un'area di interesse (es un fabbricato tenuto bene) come scenario, e il pubblico assiste",
+                                              "id": 103,
+                                              "attr": {
+                                                "style": {
+                                                  "background": "#ffff99"
+                                                }
+                                              }
+                                            }
                                           }
                                         }
                                       },
