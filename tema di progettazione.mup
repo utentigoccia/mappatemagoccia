@@ -244,19 +244,49 @@
                                 }
                               },
                               "ideas": {
-                                "1": {
-                                  "title": "Attori che inscenano una giornata di lavoro nelle Officine",
-                                  "id": 89,
+                                "3": {
+                                  "title": "Utilizzo strutture",
+                                  "id": 94,
                                   "ideas": {
                                     "1": {
-                                      "title": "far rivivere un luogo morto",
-                                      "id": 90
+                                      "title": "Riproiettare la ciminiera abbattuta che Sironi rappresenta nei quadri",
+                                      "id": 92,
+                                      "attr": {
+                                        "style": {
+                                          "background": "#ffff99"
+                                        }
+                                      }
                                     },
                                     "2": {
-                                      "title": "creare l'effetto paradosso",
-                                      "id": 91
+                                      "title": "Attori che inscenano una giornata di lavoro nelle Officine",
+                                      "id": 89,
+                                      "ideas": {
+                                        "1": {
+                                          "title": "far rivivere un luogo morto, impressionare con gente che lavora in un luogo abbandonato",
+                                          "id": 90,
+                                          "attr": {
+                                            "style": {
+                                              "background": "#ffff99"
+                                            }
+                                          }
+                                        }
+                                      },
+                                      "attr": {
+                                        "style": {
+                                          "background": "#ffff99"
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "attr": {
+                                    "style": {
+                                      "background": "#ffff99"
                                     }
                                   }
+                                },
+                                "4": {
+                                  "title": "Utilizzo solo persone",
+                                  "id": 95
                                 }
                               }
                             },
