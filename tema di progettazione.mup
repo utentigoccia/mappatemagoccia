@@ -237,11 +237,21 @@
                           "ideas": {
                             "1": {
                               "title": "Comunicare maggiormente l'archeologia industriale",
-                              "id": 85
+                              "id": 85,
+                              "attr": {
+                                "style": {
+                                  "background": "#ffff99"
+                                }
+                              }
                             },
                             "2": {
                               "title": "Valore simbolico fortissimo",
-                              "id": 87
+                              "id": 87,
+                              "attr": {
+                                "style": {
+                                  "background": "#ffff99"
+                                }
+                              }
                             }
                           }
                         },
@@ -562,7 +572,8 @@
       "attr": {
         "style": {
           "color": "#FF0000",
-          "lineStyle": "dashed"
+          "lineStyle": "solid",
+          "arrow": true
         }
       }
     },
@@ -572,7 +583,8 @@
       "attr": {
         "style": {
           "color": "#FF0000",
-          "lineStyle": "dashed"
+          "lineStyle": "solid",
+          "arrow": true
         }
       }
     },
@@ -582,7 +594,8 @@
       "attr": {
         "style": {
           "color": "#FF0000",
-          "lineStyle": "dashed"
+          "lineStyle": "solid",
+          "arrow": true
         }
       }
     }
