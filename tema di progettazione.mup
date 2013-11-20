@@ -364,6 +364,17 @@
                                         "style": {
                                           "background": "#ffff99"
                                         }
+                                      },
+                                      "ideas": {
+                                        "1": {
+                                          "title": "(teatro happening) http://www.youtube.com/watch?v=GRrNUd0d8so",
+                                          "id": 104,
+                                          "attr": {
+                                            "style": {
+                                              "background": "#ffff99"
+                                            }
+                                          }
+                                        }
                                       }
                                     }
                                   },
