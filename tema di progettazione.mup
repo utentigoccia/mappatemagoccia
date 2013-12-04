@@ -277,7 +277,12 @@
                                                 "style": {
                                                   "background": "#ffff99"
                                                 }
-                                              }
+                                              },
+                                              "ideas": {}
+                                            },
+                                            "2": {
+                                              "title": "Il palco e la zona degli spettatori è vicina all'area, ma esterna",
+                                              "id": 105
                                             }
                                           }
                                         }
