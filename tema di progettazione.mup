@@ -282,7 +282,19 @@
                                             },
                                             "2": {
                                               "title": "il palco e gli spettatori fuori dall'area",
-                                              "id": 104
+                                              "id": 104,
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "non è consentito l'accesso",
+                                                  "id": 105,
+                                                  "ideas": {
+                                                    "1": {
+                                                      "title": "area più scoperta: area ex gasometro",
+                                                      "id": 106
+                                                    }
+                                                  }
+                                                }
+                                              }
                                             }
                                           }
                                         }
@@ -363,7 +375,7 @@
                                       }
                                     },
                                     "0.5": {
-                                      "title": "Burattinai e spettacoli teatrali",
+                                      "title": "spettacoli teatrali",
                                       "id": 101,
                                       "attr": {
                                         "style": {
@@ -717,12 +729,13 @@
       }
     },
     {
-      "ideaIdFrom": 101,
-      "ideaIdTo": 89,
+      "ideaIdFrom": 104,
+      "ideaIdTo": 101,
       "attr": {
         "style": {
           "color": "#999999",
-          "lineStyle": "solid"
+          "lineStyle": "solid",
+          "arrow": true
         }
       }
     }
