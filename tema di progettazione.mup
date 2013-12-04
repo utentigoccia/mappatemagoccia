@@ -289,8 +289,40 @@
                                                   "id": 105,
                                                   "ideas": {
                                                     "1": {
-                                                      "title": "area più scoperta: area ex gasometro",
-                                                      "id": 106
+                                                      "title": "area ex gasometro demolito",
+                                                      "id": 106,
+                                                      "ideas": {
+                                                        "1": {
+                                                          "title": "area ampia",
+                                                          "id": 107
+                                                        },
+                                                        "2": {
+                                                          "title": "vista estesa e immediata del resto dell'area",
+                                                          "id": 108,
+                                                          "ideas": {
+                                                            "1": {
+                                                              "title": "Gasometri",
+                                                              "id": 109
+                                                            },
+                                                            "2": {
+                                                              "title": "torre AEM",
+                                                              "id": 111
+                                                            },
+                                                            "3": {
+                                                              "title": "magazzini",
+                                                              "id": 112
+                                                            },
+                                                            "4": {
+                                                              "title": "laboratorio chimico",
+                                                              "id": 113
+                                                            },
+                                                            "5": {
+                                                              "title": "area verde",
+                                                              "id": 114
+                                                            }
+                                                          }
+                                                        }
+                                                      }
                                                     }
                                                   }
                                                 }
