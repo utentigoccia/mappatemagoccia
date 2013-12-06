@@ -279,54 +279,6 @@
                                                 }
                                               },
                                               "ideas": {}
-                                            },
-                                            "2": {
-                                              "title": "il palco e gli spettatori fuori dall'area",
-                                              "id": 104,
-                                              "ideas": {
-                                                "1": {
-                                                  "title": "non è consentito l'accesso",
-                                                  "id": 105,
-                                                  "ideas": {
-                                                    "1": {
-                                                      "title": "area ex gasometro demolito",
-                                                      "id": 106,
-                                                      "ideas": {
-                                                        "1": {
-                                                          "title": "area ampia",
-                                                          "id": 107
-                                                        },
-                                                        "2": {
-                                                          "title": "vista estesa e immediata del resto dell'area",
-                                                          "id": 108,
-                                                          "ideas": {
-                                                            "1": {
-                                                              "title": "Gasometri",
-                                                              "id": 109
-                                                            },
-                                                            "2": {
-                                                              "title": "torre AEM",
-                                                              "id": 111
-                                                            },
-                                                            "3": {
-                                                              "title": "magazzini",
-                                                              "id": 112
-                                                            },
-                                                            "4": {
-                                                              "title": "laboratorio chimico",
-                                                              "id": 113
-                                                            },
-                                                            "5": {
-                                                              "title": "area verde",
-                                                              "id": 114
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    }
-                                                  }
-                                                }
-                                              }
                                             }
                                           }
                                         }
@@ -755,17 +707,6 @@
       "attr": {
         "style": {
           "color": "#FF0000",
-          "lineStyle": "solid",
-          "arrow": true
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 104,
-      "ideaIdTo": 101,
-      "attr": {
-        "style": {
-          "color": "#999999",
           "lineStyle": "solid",
           "arrow": true
         }
